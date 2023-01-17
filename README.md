@@ -1,2 +1,4 @@
 # metadata
-code to find metadata for azure vm
+The Problem statement was to find the metadata for aws instance. Since i am skilled in AZURE ,Google Cloud and OPENSTACK Cloud, i am going to perform this activity on AZURE cloud.
+
+
